@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
-        android:text="Add Study Day Plan!!"
+        android:text="Add Your Note"
         android:textColor="@color/black"
         android:textSize="26sp"
         android:textStyle="bold" />
@@ -52,7 +52,7 @@
         android:layout_marginEnd="16dp"
         android:background="@drawable/yellowborder"
         android:gravity="top"
-        android:hint="Enter the day plan"
+        android:hint="Enter You'r note here"
         android:padding="12dp"
         android:textSize="18sp" />
 
